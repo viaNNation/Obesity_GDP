@@ -20,6 +20,6 @@ Como o foco do projeto não é a análise em si, fiz apenas uma correlação das
 
 ## Referências
 
-Bases de dados disponibilizadas pelo Kaggle
+Bases de dados disponibilizadas pelo Kaggle \
 https://stackoverflow.com/questions/1200644/python-interpolation \
 Asimov Academy
